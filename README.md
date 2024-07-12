@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 &nbsp;Hi there
 
-<!--
-**misha024/misha024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Misha. I'm a full-stack developer, a maker websites and python scripts and bots. Check out my work.
 
-Here are some ideas to get you started:
+&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🖥 &nbsp;Past work
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=misha024&repo=p2p_bot&bg_color=262626&title_color=ffffff&text_color=ffffff&icon_color=ffffaf)](https://github.com/misha024/Pwnagetty) &nbsp; 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=misha024&repo=misha024&bg_color=262626&title_color=ffffff&text_color=ffffff&icon_color=ffffaf)](https://github.com/misha024/love-lock-card)
+
+&nbsp;
+
+
+## 📊 &nbsp;Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=misha024&theme=apprentice)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=misha024&theme=apprentice)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=misha024&theme=apprentice)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=misha024&theme=apprentice)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=misha024&theme=apprentice)
+
+&nbsp;
+
+
+![codewars](https://www.codewars.com/users/misha023/badges/micro)
+![](https://komarev.com/ghpvc/?username=misha024)
