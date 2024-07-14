@@ -7,8 +7,8 @@ I'm Misha. I'm a full-stack developer, a maker websites and python scripts and b
 
 ## 🖥 &nbsp;Past work
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=misha024&repo=p2p_bot&bg_color=262626&title_color=ffffff&text_color=ffffff&icon_color=ffffaf)](https://github.com/misha024/p2p_bot) &nbsp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=misha024&repo=misha024&bg_color=262626&title_color=ffffff&text_color=ffffff&icon_color=ffffaf)](https://github.com/misha024/misha024)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=misha024&repo=mfilms-react&bg_color=262626&title_color=ffffff&text_color=ffffff&icon_color=ffffaf)](https://github.com/misha024/mfilms-react) &nbsp; 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=misha024&repo=mfilms-vue&bg_color=262626&title_color=ffffff&text_color=ffffff&icon_color=ffffaf)](https://github.com/misha024/mfilms-vue)
 
 &nbsp;
 
